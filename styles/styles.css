@@ -1,10 +1,4 @@
 
-
-/* ========================================
-   CAMPUS TECH STORE - MAIN STYLESHEET
-   Lab 02 & Lab 03 CSS
-   ======================================== */
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f6f8;
@@ -13,7 +7,6 @@ body {
     padding: 40px 20px;
 }
 
-/* Center all content in home section */
 #home {
     text-align: center;
 }
@@ -32,7 +25,7 @@ body {
     padding: 20px 30px;
 }
 
-/* Make background consistent */
+
 body, html {
     min-height: 100vh;
 }
@@ -235,9 +228,6 @@ footer a:hover {
     font-weight: bold;
 }
 
-/* ========================================
-   LAB 03 - BUTTON AND INTERACTIVE STYLES
-   ======================================== */
 
 /* General button styling */
 button {
@@ -280,9 +270,7 @@ button:hover {
     box-sizing: border-box;
 }
 
-/* ========================================
-   LAB 03 FINAL TASK - DARK MODE STYLES
-   ======================================== */
+
 
 .dark-mode {
     background-color: #121212;
